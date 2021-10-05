@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1633469799 source:/home/paul/code/c++/misc/calctime2/main.cpp
+	<iostream>
+	<time.h>
+	<unistd.h>
+	<sys/signalfd.h>
+	<signal.h>
+	<vector>
+	<algorithm>
+	<numeric>
+	<thread>
+	<string>
+	<cstring>
+	<sys/types.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<netinet/in.h>
+	"calctime.h"
+
+1633452095 /home/paul/code/c++/misc/calctime2/calctime.h
+
+1633452097 source:/home/paul/code/c++/misc/calctime2/calctime.cpp
+	<iostream>
+	<time.h>
+	<unistd.h>
+	<vector>
+	<algorithm>
+	<numeric>
+	"calctime.h"
+
